@@ -1,1 +1,1 @@
-./ethdcrminer64 -epool eu1.ethermine.org:4444 -ewal 0xa491D66e8838892F2B040c95173993C8fFC945c5 -epsw x -allpools 1 -mode 1 -ftime 10 -eworker BigM003 -allcoins 1 -wd 0 -eres 0 -estale 0 -gser 0 -lidag 2 -ethi 9,9,9,9,9,9,9,9,9,4,9,9 -asm 1
+./ethdcrminer64 -epool eu1.ethermine.org:4444 -ewal 0x2719180ab084e6913db46ef981753d963f4c57f6 -epsw x -allpools 1 -mode 1 -ftime 10 -eworker BigM003 -allcoins 1 -wd 0 -eres 0 -estale 0 -gser 0 -lidag 2 -ethi 9,9,9,9,9,9,9,9,9,4,9,9 -asm 1
